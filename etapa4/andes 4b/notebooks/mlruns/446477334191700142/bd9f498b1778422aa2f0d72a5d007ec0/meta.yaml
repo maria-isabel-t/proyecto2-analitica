@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/pitig/Downloads/proyecto2%20analitica/etapa4/andes%204b/notebooks/mlruns/446477334191700142/bd9f498b1778422aa2f0d72a5d007ec0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '446477334191700142'
+lifecycle_stage: active
+run_id: bd9f498b1778422aa2f0d72a5d007ec0
+run_name: selective-robin-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764440343273
+status: 1
+tags: []
+user_id: pitig
