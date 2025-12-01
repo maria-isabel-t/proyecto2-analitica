@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/pitig/Downloads/proyecto2%20analitica/etapa4/andes%204b/notebooks/mlruns/446477334191700142/be5f798ae4ee4983bbba09dfc95016d6/artifacts
+end_time: 1764611393011
+entry_point_name: ''
+experiment_id: '446477334191700142'
+lifecycle_stage: active
+run_id: be5f798ae4ee4983bbba09dfc95016d6
+run_name: mlp_clasificacion_base
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764611383409
+status: 3
+tags: []
+user_id: pitig

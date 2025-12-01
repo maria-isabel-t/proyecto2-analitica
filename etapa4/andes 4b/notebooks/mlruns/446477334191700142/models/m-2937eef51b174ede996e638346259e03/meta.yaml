@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/pitig/Downloads/proyecto2%20analitica/etapa4/andes%204b/notebooks/mlruns/446477334191700142/models/m-2937eef51b174ede996e638346259e03/artifacts
+creation_timestamp: 1764611604529
+experiment_id: '446477334191700142'
+last_updated_timestamp: 1764611609420
+model_id: m-2937eef51b174ede996e638346259e03
+model_type: null
+name: best_estimator
+source_run_id: 77ae515b988f41e2b8509207f8689661
+status: 2
+status_message: null

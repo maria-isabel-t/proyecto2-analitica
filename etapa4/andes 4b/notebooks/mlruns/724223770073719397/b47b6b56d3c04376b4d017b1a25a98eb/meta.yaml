@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/pitig/Downloads/proyecto2%20analitica/etapa4/andes%204b/notebooks/mlruns/724223770073719397/b47b6b56d3c04376b4d017b1a25a98eb/artifacts
+end_time: 1764611383378
+entry_point_name: ''
+experiment_id: '724223770073719397'
+lifecycle_stage: active
+run_id: b47b6b56d3c04376b4d017b1a25a98eb
+run_name: mlp_regresion_base
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764611351874
+status: 3
+tags: []
+user_id: pitig
